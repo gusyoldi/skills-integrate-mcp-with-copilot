@@ -1,0 +1,5 @@
+Este archivo se añadió automáticamente para que el pipeline detecte cambios en `src/`.
+
+Motivo: el workflow de la exercise espera que los PRs con trabajo práctico modifiquen archivos bajo `src/`. El PR actual solo añadía documentación; para completar la prueba y avanzar al siguiente paso se necesita al menos un cambio en `src/`.
+
+Si prefieres no añadir esto, podemos modificar el workflow para aceptar cambios en `docs/` o `DEPENDENCY_AUDIT.md`.
